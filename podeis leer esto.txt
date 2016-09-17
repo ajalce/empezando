@@ -10,3 +10,4 @@ php, roR, ajax, jinja2
 
 tools:
 office (word,excel), sublime, sourceTree, kanban flow, browser stack
+
