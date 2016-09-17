@@ -2,3 +2,11 @@
 
 -AJ- HTML5, CSS3, SASS, COMPASS, jQuery, JS, Bootstrap, Responsive
 -JC- HTML5, CSS3, Bootstrap, RoR, jQuery, MySQL, PostgreSQL
+-AF- HTML y CSS (Basic) , Java, JS, Oracle, DB2, MySQL, AJAX
+
+Must have: 
+php, roR, ajax, jinja2
+
+
+tools:
+office (word,excel), sublime, sourceTree, kanban flow, browser stack
